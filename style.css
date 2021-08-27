@@ -1,0 +1,31 @@
+body{
+	background: linear-gradient(rgba(10,0,50,0.5),rgba(10,0,50,0.5)),url(image1.jpg);
+backgrund-size:cover;
+background-position:center;
+}
+
+
+
+.login-box{
+max-width: 400px;
+float: none;
+margin: 150px auto;
+}
+
+h2,h3{
+	color: white;
+	text-align: center;
+}
+p{   
+font-size: 20px;
+    color: wheat;
+    text-align: center;
+} 
+.login-center{
+	
+padding: 30px;
+}
+textarea {
+  width: 80%;
+  height: 60vh;
+}
